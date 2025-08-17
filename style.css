@@ -30,3 +30,11 @@ body{
 .green{
     background-color:#63acc0;
 }
+
+.flash{
+    background-color:white;
+}
+
+.userFlash{
+    background-color:green;
+}
